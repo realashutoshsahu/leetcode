@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/realashutoshsahu/leetcode/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/realashutoshsahu/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/realashutoshsahu/leetcode/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/realashutoshsahu/leetcode/tree/master/0258-add-digits) |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/realashutoshsahu/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/realashutoshsahu/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
@@ -86,4 +89,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/realashutoshsahu/leetcode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
