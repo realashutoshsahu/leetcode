@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/realashutoshsahu/leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/realashutoshsahu/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/realashutoshsahu/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/realashutoshsahu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/realashutoshsahu/leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/realashutoshsahu/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/realashutoshsahu/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/realashutoshsahu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/realashutoshsahu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/realashutoshsahu/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/realashutoshsahu/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/realashutoshsahu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
