@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/realashutoshsahu/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/realashutoshsahu/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/realashutoshsahu/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/realashutoshsahu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/realashutoshsahu/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -57,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/realashutoshsahu/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/realashutoshsahu/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/realashutoshsahu/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/realashutoshsahu/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/realashutoshsahu/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 ## String
 |  |
 | ------- |
