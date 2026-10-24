@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/realashutoshsahu/leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/realashutoshsahu/leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
