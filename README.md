@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/realashutoshsahu/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/realashutoshsahu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/realashutoshsahu/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/realashutoshsahu/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/realashutoshsahu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/realashutoshsahu/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -246,4 +249,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0658-find-k-closest-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
