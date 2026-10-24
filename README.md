@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/realashutoshsahu/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/realashutoshsahu/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/realashutoshsahu/leetcode/tree/master/0217-contains-duplicate) |
+| [0318-maximum-product-of-word-lengths](https://github.com/realashutoshsahu/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0560-subarray-sum-equals-k](https://github.com/realashutoshsahu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/realashutoshsahu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/realashutoshsahu/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/realashutoshsahu/leetcode/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/realashutoshsahu/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/realashutoshsahu/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/realashutoshsahu/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/realashutoshsahu/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
