@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/realashutoshsahu/leetcode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/realashutoshsahu/leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/realashutoshsahu/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/realashutoshsahu/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/realashutoshsahu/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/realashutoshsahu/leetcode/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
+| [0997-find-the-town-judge](https://github.com/realashutoshsahu/leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/realashutoshsahu/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Shortest Path
 |  |
