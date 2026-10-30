@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/realashutoshsahu/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/realashutoshsahu/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/realashutoshsahu/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/realashutoshsahu/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/realashutoshsahu/leetcode/tree/master/0217-contains-duplicate) |
 | [0318-maximum-product-of-word-lengths](https://github.com/realashutoshsahu/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/realashutoshsahu/leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/realashutoshsahu/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/realashutoshsahu/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/realashutoshsahu/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/realashutoshsahu/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/realashutoshsahu/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/realashutoshsahu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/realashutoshsahu/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/realashutoshsahu/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/realashutoshsahu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/realashutoshsahu/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/realashutoshsahu/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/realashutoshsahu/leetcode/tree/master/0933-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
