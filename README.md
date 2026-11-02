@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/realashutoshsahu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/realashutoshsahu/leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/realashutoshsahu/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/realashutoshsahu/leetcode/tree/master/0695-max-area-of-island) |
 | [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/realashutoshsahu/leetcode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/realashutoshsahu/leetcode/tree/master/1046-last-stone-weight) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/realashutoshsahu/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/realashutoshsahu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/realashutoshsahu/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/realashutoshsahu/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/realashutoshsahu/leetcode/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/realashutoshsahu/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/realashutoshsahu/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/realashutoshsahu/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/realashutoshsahu/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/realashutoshsahu/leetcode/tree/master/0841-keys-and-rooms) |
 ## Union-Find
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/realashutoshsahu/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/realashutoshsahu/leetcode/tree/master/0695-max-area-of-island) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -296,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/realashutoshsahu/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/realashutoshsahu/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
