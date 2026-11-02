@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/realashutoshsahu/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/realashutoshsahu/leetcode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/realashutoshsahu/leetcode/tree/master/1046-last-stone-weight) |
+| [1436-destination-city](https://github.com/realashutoshsahu/leetcode/tree/master/1436-destination-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/realashutoshsahu/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/realashutoshsahu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/realashutoshsahu/leetcode/tree/master/0997-find-the-town-judge) |
+| [1436-destination-city](https://github.com/realashutoshsahu/leetcode/tree/master/1436-destination-city) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/realashutoshsahu/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/realashutoshsahu/leetcode/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/realashutoshsahu/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1436-destination-city](https://github.com/realashutoshsahu/leetcode/tree/master/1436-destination-city) |
 ## Bracket Sequences
 |  |
 | ------- |
